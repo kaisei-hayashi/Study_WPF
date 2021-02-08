@@ -1,0 +1,15 @@
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.csprojAssemblyReference.cache
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\MainWindow.g.cs
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\App.g.cs
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1_MarkupCompile.cache
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1_MarkupCompile.lref
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\bin\Debug\Study1.exe.config
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\bin\Debug\Study1.exe
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\bin\Debug\Study1.pdb
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\MainWindow.baml
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.g.resources
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.Properties.Resources.resources
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.csproj.GenerateResource.cache
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.csproj.CoreCompileInputs.cache
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.exe
+C:\Users\kaisei.hayashi\source\repos\Study1\Study1\obj\Debug\Study1.pdb
